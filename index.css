@@ -2,3 +2,8 @@
 body{
     background-color: black;
 }
+
+.row{
+    margin-top: 30%;
+    margin-bottom: 30%;
+}
